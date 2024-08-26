@@ -40,7 +40,7 @@ To run this project, you will need:
 - Sensors (e.g., temperature, humidity).
 - Actuators (e.g., relays for controlling appliances).
 - [Controller dashboard repo](https://github.com/abdallah-dh/dashbord_Controller.git) installed & running.
-- [Mosquitto API repo](https://github.com/cunbex/mosquitto-api) installed & running.
+- [Mosquitto API repo](https://github.com/abdallah-dh/api-mosquitto.git) installed & running.
 - Node.js 20.14.0 or later.
 
 ### Installation
