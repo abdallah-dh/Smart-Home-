@@ -1,6 +1,6 @@
 # Smart House IoT License year project
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cunbex/Smart-House-IOT/blob/main/LICENSE)
-
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/abdallah-dh/Smart-Home-/blob/main/LICENSE)
+https://github.com/abdallah-dh/Smart-Home-.git
 Smart House IoT is a project aimed at building a smart home system using Internet of Things (IoT) technologies.
 
 ## Table of Contents
@@ -49,8 +49,8 @@ This installation pattern will be applied to all the 3 repo's, Smart-House-IOT r
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/cunbex/Smart-House-IOT.git
+```bas
+git clone https://github.com/abdallah-dh/Smart-Home-.git
 cd Smart-House-IOT
 ```
 
