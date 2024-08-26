@@ -147,7 +147,7 @@ You can check it out here: https://drive.google.com/file/d/1IlTaaxwtkMrfE8qchtaB
    
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes, or if you have questions & suggestions you can contact me on my email: hamzalagab.tech@gmail.com.
+Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes, or if you have questions & suggestions you can contact me on my email: daheurabdallah22@gmail.com.
 
 ## License
 
